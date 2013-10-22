@@ -1,0 +1,24 @@
+{
+  "name": "voltron-di",
+  "version": "0.9.0",
+  "description": "A dependency injection container for server-side apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmreidy/voltron-di"
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "angular",
+    "ng-di"
+  ],
+  "author": "Justin Reidy <jmreidy@rzrsharp.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmreidy/voltron-di/issues"
+  }
+}
