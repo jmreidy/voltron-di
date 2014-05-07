@@ -1,6 +1,6 @@
 {
   "name": "voltron-di",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "description": "A dependency injection container for server-side apps.",
   "main": "index.js",
   "scripts": {
